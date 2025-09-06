@@ -1,1 +1,2 @@
 AHOJ Grepe
+Dnes je sobota a toto přidávám do GitHub
